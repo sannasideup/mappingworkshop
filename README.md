@@ -1,2 +1,2 @@
 # WUworkshops
-This site is for workshops around mapping and GIS at Washington University
+This site is for 2 days of workshops around mapping and GIS at Washington University. 
