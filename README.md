@@ -1,2 +1,2 @@
 # Workshops
-This site is for 2 days of workshops around mapping and GIS at Washington University. 
+This site is for a mapping workshop presented at UC Irvine Libraries on March 1, 2017. 
