@@ -12,13 +12,13 @@ Download Zip Shapefile of LA Neighborhoods.
 
  
 Hover code for CARTO:  
-
+```
 <div class="CDB-Tooltip CDB-Tooltip--isLight">
   <ul class="CDB-Tooltip">
 <p><img width=100 src={{image_url}}></p>
   </ul>
 </div>
-
+```
 
 
 
