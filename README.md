@@ -1,5 +1,6 @@
 ## HappyMapping
 This is a barebones starter page for a digital project. 
+[Slides](https://slides.com/andyrutkowski/deck/live)
 
 ###Create a [Carto Account] (https://carto.com/signup/)
 
