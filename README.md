@@ -31,8 +31,11 @@ Download Zip Shapefile of LA Neighborhoods.
 Bring your CARTO visualization into Odyssey.JS and tell a story.
 
 Use the following code to bring in your CARTO map:
+
 http://username.cartodb.com/u/username/api/v2/viz/key/viz.json
+
 Insert your username in both places where you see "username" and then use the key # which is the # between "builder" and "embed"
+
 https://andyrutkowskiucla.carto.com/builder/6f637d56-fd6e-11e6-a253-0e233c30368f/embed
 
 [Great David Rumsey Hack courtesy of Stace Maples](http://mapninja.github.io/CartoDB_Odyssey_Tutorial_for_Story_Maps/) Search for Rumsey and follow the directions.
