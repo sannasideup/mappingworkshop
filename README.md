@@ -48,4 +48,5 @@ Here is an example with a Rumsey map as well as a CARTO map:
 -author: "CartoDB"
 -vizjson: "http://andyrutkowskiucla.cartodb.com/u/andyrutkowskiucla/api/v2/viz/6f637d56-fd6e-11e6-a253-0e233c30368f/viz.json"  
 ```
-
+###Reading 
+[Collections as Data LOC](https://blogs.loc.gov/thesignal/2017/02/read-collections-as-data-report-summary/)
