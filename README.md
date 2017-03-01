@@ -40,5 +40,12 @@ https://andyrutkowskiucla.carto.com/builder/6f637d56-fd6e-11e6-a253-0e233c30368f
 
 [Great David Rumsey Hack courtesy of Stace Maples](http://mapninja.github.io/CartoDB_Odyssey_Tutorial_for_Story_Maps/) Search for Rumsey and follow the directions.
 
+Here is an example with a Rumsey map as well as a CARTO map:
 
+```  
+-baseurl: "http://georeferencer-0.tileserver.com//266b60e098fda1ddbe521ebff0e4d8676a549302/map/CGtnosESWB2NnsgVyjmQc5/201411301752-7AINSs/affine/{z}/{x}/{y}.png"  
+-title: "Odyssey example FTW"
+-author: "CartoDB"
+-vizjson: "http://andyrutkowskiucla.cartodb.com/u/andyrutkowskiucla/api/v2/viz/6f637d56-fd6e-11e6-a253-0e233c30368f/viz.json"  
+```
 
