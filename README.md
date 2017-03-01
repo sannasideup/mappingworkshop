@@ -30,7 +30,7 @@ Download Zip Shapefile of LA Neighborhoods.
 ### Bonus Odyssey.JS
 Bring your CARTO visualization into Odyssey.JS and tell a story.
 
-Use the following code to bring in your CARTO map:
+Use the following string to bring in your CARTO map:
 
 http://username.cartodb.com/u/username/api/v2/viz/key/viz.json
 
