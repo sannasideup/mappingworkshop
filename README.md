@@ -6,5 +6,5 @@ Data:
 
 Pick LA Times Photo or LA Murals (or map both!)
 
-Download Zip Shapefile of LA Neighborhoods from [LA Times] (http://boundaries.latimes.com/sets/)
+Download Zip Shapefile of LA Neighborhoods.
 
