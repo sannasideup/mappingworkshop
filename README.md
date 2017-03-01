@@ -1,5 +1,5 @@
 ## HappyMapping
-This is a barebones starter page for a digital project. 
+Get started on a digital mapping project. 
 
 [Slides](https://slides.com/andyrutkowski/deck/live)
 
